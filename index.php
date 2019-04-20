@@ -51,7 +51,7 @@ $pagina = "Inicio";
 			<div class="col-md-4 buscar">
 				<a href="brann/" class="panel panel-default panel-icon panel-primary">
 			        <div class="panel-heading hidden-xs">
-			           <i class="fa" style="font-size: 7em; padding-top:20px;"><img src="https://i.imgur.com/rHHOVNO.png" style="width: 98%"></i>
+			           <i class="fa" style="font-size: 7em; padding-top:20px;"><img src="img/brann-logo.png" style="width: 98%"></i>
 			        </div>
 			        <div class="panel-body">
 			           <h3><span class="visible-xs-inline"></span>Brann</h3>

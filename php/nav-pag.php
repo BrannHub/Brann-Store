@@ -2,11 +2,11 @@
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header text-white" style="color:#fff;">
-      <button style="color:#fff;" type="button" class="navbar-toggle collapsed text-white" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span style="color:#fff;" class="sr-only text-white">Toggle navigation</span>
-        <span style="color:#fff;" class="icon-bar text-white"></span>
-        <span style="color:#fff;" class="icon-bar text-white"></span>
-        <span style="color:#fff;" class="icon-bar text-white"></span>
+      <button style="color:#ffffff;" type="button" class="navbar-toggle collapsed text-white" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span style="color:#ffffff;" class="sr-only text-white">Toggle navigation</span>
+        <span style="color:#ffffff;" class="icon-bar text-white"></span>
+        <span style="color:#ffffff;" class="icon-bar text-white"></span>
+        <span style="color:#ffffff;" class="icon-bar text-white"></span>
       </button>
       <div class="navbar-brand text-white" href="#"><img src="<?php echo $logo; ?>" height="50" alt="">  &nbsp;&nbsp;<?php echo $nombreapp; ?></div>
     </div>

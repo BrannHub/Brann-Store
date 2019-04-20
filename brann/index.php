@@ -37,7 +37,7 @@ $pagina = "Brann - Aplicaciones";
 		<div class="row">
 			<div class="col-md-4 buscar">
 				 <div class="thumbnail">
-				      <img src="https://i.imgur.com/Gj8v4GQ.png" alt="...">
+				      <img src="https://www.macupdate.com/images/icons256/54025.png" alt="...">
 				      <div class="caption">
 				        <h3>Visual Studio Code</h3>
 				        <p>Editor de código desarrollado por Microsoft.</p>

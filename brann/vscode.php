@@ -46,7 +46,7 @@ $pagina = "Brann - Visual Studio Code";
 		<center>
 			<a href="#" class="btn btn-info"><i class="fa fa-github"></i> Ver repositorio</a>
 			<a href="#" class="btn btn-success"><i class="fa fa-envelope"></i> Contactarse con el desarrollador</a>
-			<a href="#" class="btn btn-danger"><i class="fa fa-info"></i> ¿Tu eres el desarrollador de esta aplicación?</a>
+			<a href="mailto:soporte@brannar.com" target="a_blank" class="btn btn-danger"><i class="fa fa-info"></i> ¿Tu eres el desarrollador de esta aplicación?</a>
 			<br>
 			<iframe type="text/html" style="width: 100%;" height="460" src="https://www.youtube.com/embed/Sdg0ef2PpBw?autoplay=1&mute=1&loop=1&modestbranding=1&playlist=Sdg0ef2PpBw" frameborder="0"></iframe>
 		</center>
@@ -56,9 +56,42 @@ $pagina = "Brann - Visual Studio Code";
 		<br>
 		<h2>Capturas de pantalla</h2>
 		<hr>
-		<img src="https://i.imgur.com/px4RK2Z.png" style="width: 100%;">
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		  <!-- Indicators -->
+		  <ol class="carousel-indicators">
+		    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		    <li data-target="#myCarousel" data-slide-to="1"></li>
+		    <li data-target="#myCarousel" data-slide-to="2"></li>
+		  </ol>
+
+		  <!-- Wrapper for slides -->
+		  <div class="carousel-inner">
+		    <div class="item active">
+		      <img src="https://i.imgur.com/px4RK2Z.png">
+		    </div>
+
+		    <div class="item">
+		      <img src="https://i.imgur.com/jOyeFWf.png">
+		    </div>
+
+		    <div class="item">
+		      <img src="https://i.imgur.com/dJWgicF.png">
+		    </div>
+		  </div>
+
+		  <!-- Left and right controls -->
+		  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+		    <span class="fa fa-arrow-left"></span>
+		    <span class="sr-only">Previous</span>
+		  </a>
+		  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+		    <span class="fa fa-arrow-right"></span>
+		    <span class="sr-only">Next</span>
+		  </a>
+		</div>
 		<br><br>
-		
+		<center>
+		<div style="width: 100%;"  data-width="1000" class="fb-comments" data-href="https://brannar.com" data-numposts="5"></div>	</center>
 	</div>
 </body>
 

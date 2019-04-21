@@ -14,5 +14,6 @@
 <meta name="theme-color" content="#0072b8">
 <meta name="msapplication-navbutton-color" content="#0072b8">
 <meta name="apple-mobile-web-app-status-bar-style" content="#0072b8">
-
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.2"></script>
 <title><?php echo $pagina; ?> - <?php echo $nombreapp; ?></title>

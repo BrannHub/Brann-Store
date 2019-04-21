@@ -1,4 +1,4 @@
 <?php 
 $nombreapp = "Brann Store"; 
-$logo = "img/brann-logo.png";
+$logo = "https://i.imgur.com/YSToWuI.png";
 ?>

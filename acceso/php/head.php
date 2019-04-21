@@ -1,3 +1,4 @@
+      <meta charset="utf-8">
       <link rel="stylesheet" href="../vendor/css/adminlte.css">
       <link rel="stylesheet" href="../../vendor/css/adminlte.css">
       <link rel="stylesheet" href="vendor/css/adminlte.css">
@@ -31,4 +32,4 @@
 
       <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      <title><?php echo $pagina; ?> <?php echo $nombreapp; ?></title>
+      <title><?php echo $pagina; ?> - <?php echo $nombreapp; ?></title>

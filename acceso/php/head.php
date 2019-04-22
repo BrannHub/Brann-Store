@@ -18,12 +18,9 @@
       <!-- Fancybox -->
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.css">
       <!-- Wizard -->
-      <link rel="stylesheet" href="http://techlaboratory.net/demos/SmartWizard43/dist/css/smart_wizard.css">
-      <link rel="stylesheet" href="http://techlaboratory.net/demos/SmartWizard43/dist/css/smart_wizard_theme_dots.css">
-      <link rel="stylesheet" href="http://techlaboratory.net/demos/SmartWizard43/dist/css/smart_wizard_theme_arrows.css">
-      <link rel="stylesheet" href="http://techlaboratory.net/demos/SmartWizard43/dist/css/smart_wizard_theme_circles.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-
+      <!-- Data Tables -->
+      <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
       <!-- jQuery -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 

@@ -1,10 +1,6 @@
-<!-- Bootstrap 4 -->
-<script src="../vendor/js/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="../../vendor/js/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-<!-- AdminLTE App -->
-<script src="../vendor/js/adminlte.min.js"></script>
-<script src="../../vendor/js/adminlte.min.js"></script>
+<nav id="footer" class="bg-dark text-auto row no-gutters align-items-center px-6" style="background: linear-gradient(135deg, rgba(76,76,76,1) 0%,rgba(89,89,89,1) 12%,rgba(102,102,102,1) 25%,rgba(71,71,71,1) 39%,rgba(44,44,44,1) 50%,rgba(0,0,0,1) 51%,rgba(17,17,17,1) 60%,rgba(43,43,43,1) 76%,rgba(28,28,28,1) 91%,rgba(19,19,19,1) 100%);">
+	Licencia MIT &copy; 2019 - BrannAR 
+</nav>
 
 <!-- AdminLTE for demo purposes -->
 <script src="../vendor/js/demo.js"></script>
